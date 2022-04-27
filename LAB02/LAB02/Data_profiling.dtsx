@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Data_Profiling"
   DTS:PackageType="5"
-  DTS:VersionBuild="2"
-  DTS:VersionGUID="{52188F3A-70B3-405E-965F-F95921C362C2}">
+  DTS:VersionBuild="3"
+  DTS:VersionGUID="{2E079541-AC56-4C40-85CE-D0A163AAFDF7}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
